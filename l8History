@@ -1,0 +1,21 @@
+    1  pwd
+    2  nano hello.c
+    3  ls
+    4  git init
+    5  ls
+    6  ls 'al
+ls -al
+ls 'al
+    7  ls -all
+    8  git add
+    9  git add .
+   10  git commit
+   11  vim nano.c
+   12  vim hello.c
+   13  nano hello.c
+   14  less hello.c
+   15  git status
+   16  git add .
+   17  commit
+   18  git commit
+   19  history > l8History
