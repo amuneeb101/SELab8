@@ -1,0 +1,19 @@
+    1  exit
+    2  ls
+    3  ls
+    4  mkdir lab9
+    5  cd lab9
+    6  git
+    7  clear
+    8  git
+    9  clear
+   10  clear
+   11  clean
+   12  clear
+   13  cls
+   14  script
+   15  exit
+   16  ./hello
+   17  clear
+   18  less typescript
+   19  history > lab9history2.txt
